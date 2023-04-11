@@ -2,9 +2,9 @@
 Recipe recommendation app using C++ and GPT to generate personalized recipe recommendations based on user's pantry inventory.
 Here is a revised professional description that includes the additional points you requested:
 
-Title: Recipe Recommender
+Title: RecipeAI
 
-Description: Recipe Recommender is an innovative recipe discovery app that makes cooking fun and easy. The app allows users to input the ingredients they have on hand using a barcode scanner, and generates personalized recipe recommendations based on those ingredients. In addition, the app suggests new items to add to the pantry based on dietary restrictions and general buying habits, and saves time by eliminating the need to constantly think about what to buy.
+Description: RecipeAI is an innovative recipe discovery app that makes cooking fun and easy. The app allows users to input the ingredients they have on hand using a barcode scanner, and generates personalized recipe recommendations based on those ingredients. In addition, the app suggests new items to add to the pantry based on dietary restrictions and general buying habits, and saves time by eliminating the need to constantly think about what to buy.
 
 Features:
 
